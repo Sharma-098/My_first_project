@@ -1,1 +1,1 @@
-# My_first_project
+The included `news_dataset.csv` is a small illustrative dataset for testing the project workflow. It is not a research-grade benchmark. Replace it with a larger, legally usable, carefully labelled dataset before reporting final performance. Required columns: `text`, `label`; labels must be REAL or FAKE.
